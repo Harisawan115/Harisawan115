@@ -15,21 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Harisawan115&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Harisawan115&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harisawan115&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🚀 Projects & Portfolio
-Check out my latest work: [Haris Awan Portfolio](https://haris-awan.vercel.app)  
-
-**Featured Projects:**  
-- **AI Restaurant Recommender** – Suggests restaurants based on budget using ML  
-- **Brick Breaker Game in C++** – Console-based game with power-ups and scoring  
-- **Face Recognition Attendance System** – Python + OpenCV project for automated attendance  
-- **Stock Market Predictor** – ML model predicting stock trends with visualization  
-
 ---
-
 ## 🎯 Fun Fact
 I often mix **gaming, AI, and design** to create solutions that are as fun as they are functional.  
 
 [![](https://visitcount.itsvg.in/api?id=Harisawan115&icon=6&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
